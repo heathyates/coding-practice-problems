@@ -2,10 +2,46 @@
 
 This is a collection of coding and practice problems as a part of my journey to practice, refine, and improve my programming skills. 
 
+## Patterns for Solving Coding Problems 
+
+The following is a list of patterns common to solving coding problems. 
+
+### Sliding Windong 
+
+- Sliding Window Pattern 
+- [Leetcode Sliding Window Problems](https://leetcode.com/tag/sliding-window/)
+- [SLiding Window Pattern: Part 1 of 3](https://www.youtube.com/watch?v=BM0mhAlvyQc)
+
+
+
+### Two Pointers 
+This is a common useful for removing duplicates 
+
+### Fast and Slow Pointers 
+Find a cycle in a linked list 
+
+### Merge Intervals 
+Conflicting appointments 
+
+### Bread First Search 
+Binary tree level order traversal 
+
+### Depth First Search 
+Find a path with given sequence 
+
+### Subsets 
+Permutations 
+
+### Top "K" Elements 
+Find the kth smallest number
+
+### Dynamic Programming 
+This is a good pattern for knapsack problem 
+
+
+## Data Structures and Algorithms 
 ## Coding Problems 
 ## Project Euler 
-## Patterns for Solving Coding Problems 
-## Data Structures and Algorithms 
 
 
 
