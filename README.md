@@ -51,3 +51,5 @@ This is a good pattern for knapsack problem
 - [Project Euler](https://projecteuler.net/archives)
 - [Grokking the coding Interview](https://www.educative.io/courses/grokking-the-coding-interview)
 - [Algorithms: Top Down Approach](https://people.cs.ksu.edu/~rhowell/algorithms-text/text/)
+- [Coding Game](https://www.codingame.com/start) 
+- [How to Solve Coding Problems](https://www.freecodecamp.org/news/how-to-solve-coding-problems/) 
